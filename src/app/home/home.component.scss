@@ -53,24 +53,31 @@ ul li:hover {
     background-color: #EEE;
 }
 
+.vazio {
+  height: 600px;
+  border: 1px solid red
+}
+
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 footer {
     font-family: 'Roboto', sans-serif;
-    position: absolute;
+    // position: absolute;
     bottom: 0;
-    width: 100%;
+    // width: 100%;
     font-size: 100%;
     background: linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)), #0DA92D;
-    top:650px;
+    // top:650px;
     border-top: 0.2px solid #10AEB1;
     
 
 }
 
-.rodape_branco
-{color: #ffffff;}
+.rodape_branco {
+  color: #ffffff;
+  margin-left: 10px;
+}
 
   
   .rodape_principal {
