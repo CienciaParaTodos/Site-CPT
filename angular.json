@@ -28,7 +28,8 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "src/imagens/logo-ciencia.png"
+              "src/imagens/ciencia.svg",
+              "src/imagens/logo-cpt.svg"
             ],
             "styles": [
               "src/styles.scss"
