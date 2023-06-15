@@ -54,3 +54,88 @@ ul li:hover {
 .vermelho {
     background-color: red;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+footer {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 100%;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.15)), #0DA92D;
+    top:650px;
+    border-top: 0.2px solid #10AEB1;
+    
+
+}
+
+.rodape_branco
+{color: #ffffff;}
+
+  
+  .rodape_principal {
+    position: relative;
+    top:110px;
+    right: 160px;
+    display: flex;
+    justify-content:flex-end;
+    gap: 75px;
+
+  }
+  
+  .rodape_redes {
+    
+    display: flex;
+    margin: 0;
+    padding-left: 797px;
+    position: relative;
+    top:-10px;
+    justify-content: flex-end;
+    font-weight: 400;
+    font-size: 21px;
+    padding-right: 185px;
+  }
+  
+  .rodape_fone {
+    display: flex;
+    justify-content: flex-start;
+    position:relative;
+    top:10px;
+    left:60px;
+  }
+  
+  .rodape_contato {
+    margin: 0;
+    margin-left: 10px;
+    justify-content: flex-end;
+    font-weight: 400;
+    font-size: 15px;
+  }
+  
+  .rodape-cel {
+    margin: 0;
+    justify-content: flex-end;
+  }
+  
+  .rodape-mapa
+  {
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    position:relative;
+    top:-25px;
+    left:72px;
+    
+  }
+  
+  .rodape-hmapa
+  {
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  .rodape_maps 
+  {
+    margin-right: 10px;
+  }
